@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashraful5158&label=Profile%20views&color=0e75b6&style=flat" alt="ashraful5158" /> </p>
-<div align="center"> <img src="https://media.giphy.com/media/j3kB5dviylnv84gRSE/giphy.gif" /> </div>
+<div align="center"> <img src="https://camo.githubusercontent.com/b52d6eb32e458418315dee6c1c0f56443fde692d56ac5da1dd117f010b50abab/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d584a3362584278597a4e32646e49786557527a4e7a4e73634867794d6d396a626d52715a4468694d546875596e68706333643661535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5774546e41665a6e3661564a66427a6c4e332f67697068792e676966" /> </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashraful5158" alt="ashraful5158" /></a> </p>
 
 - 🔭 I’m currently working on **Orebi**
